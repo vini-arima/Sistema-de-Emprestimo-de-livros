@@ -1,0 +1,16 @@
+#EXPLICANDO O CÓDIGO 
+ # for i , ( livro , disponivel) in enumerate(dicionario.items() , start= 1 ): 
+        # status = 'disponivel' if disponivel else 'indisponivel'  
+        # print(f"{i} - {livro} ({status})")   
+        
+# livro = chave 
+# disponvel = valor 
+# enumerate = ENUMERAR ITENS (LISTAGEM - 1 , 2, 3 ,4 )  - COMEÇA (START = 1) 
+# status = PODE DECLARAR VARIAVEL ATRAVES DE CHAVES  
+
+#  livro_emprestado = list(dicionario.keys())[escolha] # 
+
+# list() = traforma ou converte as chave em listas 
+# keys() = metodo que mostra as chaves do dicionario 
+# value() = metodo que mostra os valores do dicionario
+              
